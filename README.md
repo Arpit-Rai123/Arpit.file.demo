@@ -1,2 +1,3 @@
 # Arpit.file.demo
-hey its for learning , this is a demo
+Hey, it's for learning. This is a demo
+Author: ArpitRai
